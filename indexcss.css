@@ -64,6 +64,10 @@ img.myphoto {
 	margin:550px 30.5%;
 	border-radius:30px;
 	float:left;
+	transition: opacity 0.5s ease;
+}
+img.myphoto:hover {
+	opacity: 0.5;
 }
 .between {
 	font-family:"courier new";
