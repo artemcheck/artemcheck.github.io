@@ -1,0 +1,255 @@
+#header {
+	background-color: #f2f2f2; /*#f2f2f2*/
+	width:100%;
+	height:65px;
+	font-size:24px;
+	padding-top:40px;
+	position:block;
+	margin-bottom: 130px;
+}
+#content {
+	margin-left:13%;
+	min-height:100%;
+	width:100%;
+	height:auto;	
+	position:block;
+}
+#footer {
+	width:100%;
+	height:80px;
+	position:absolute;
+	margin-top: 260%;
+	background-color:#f2f2f2;
+	color:white;
+	font-size:24px;
+}
+body {
+	background-color: #f2f2f2;
+	margin:0;
+	overflow-x:hidden;
+}
+a {
+	text-decoration:none;
+	margin-left:3%;
+	color:black;
+}
+.word {
+	text-align:center;
+	margin-top:-1.9%;
+	font-size:44px;
+}
+.zhora {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("zhorik.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 36%;
+	margin-left:38%;
+	border-radius:10px;
+}
+
+.timur {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("timur.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 72%;
+	margin-left:4%;
+	border-radius:10px;
+}
+.sanya {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("sanya.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 72%;
+	margin-left:38%;
+	border-radius:10px;
+}
+.igor {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("igor.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 108%;
+	margin-left:4%;
+	border-radius:10px;
+}
+.zheka {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("zheka.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 108%;
+	margin-left:38%;
+	border-radius:10px;
+}
+.dima {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("dima.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 144%;
+	margin-left:4%;
+	border-radius:10px;
+}
+.anya {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("anya.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 144%;
+	margin-left:38%;
+	border-radius:10px;
+}
+.elya {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("elya.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 180%;
+	margin-left:4%;
+	border-radius:10px;
+}
+.dzhema {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("dzhema.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 180%;
+	margin-left:38%;
+	border-radius:10px;
+}
+.yura {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("yura.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 216%;
+	margin-left:4%;
+	margin-bottom:110px;
+	border-radius:10px;
+}
+.zhenya {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("zhenya.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-top: 216%;
+	margin-left:38%;
+	margin-bottom:50px;
+	border-radius:10px;
+}
+.krasotka {
+	position:absolute;
+	width:32%;
+	height:62%;
+	background-image:url("krasotka.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin: 36% 4%;
+	border-radius:10px;
+}
+.parents {
+	position:absolute;
+	width:66%;
+	height:62%;
+	background-image:url("parents.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin:0 4%;
+	border-radius:10px;
+}
+.info {
+	text-align:center;
+	color:white;
+	font-size:250%;
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+.info:hover {
+	opacity:1;
+}
+.overlay {
+	width:100%;
+	height:100%;
+	background-color: black;
+	opacity:0;
+	transition:opacity 0.5s ease;
+	border-radius:10px;
+}
+.overlay:hover {
+	opacity:0.5;
+}
+.link {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
+.overlay1 {
+	width:100%;
+	height:100%;
+	background-color: black;
+	opacity:0;
+	transition:opacity 0.5s ease;
+	border-radius:10px;
+}
+.overlay1:hover {
+	opacity:0.5;
+}
+.span3 {
+	font-size:11px;
+}
+.soc {
+	width:40px;
+	height:40px;
+}
+.social {
+	position:absolute;
+	top:20px;
+	right:50px;
+	z-index:5;
+}
+td {
+	transition:opacity 0.5s ease;
+}
+td:hover {
+	opacity:0.5;
+}
+code {
+	transition:opacity 0.5s ease;
+}
+code:hover {
+	opacity:0.5;
+}
+.pook {
+	transition:opacity 0.5s ease;
+}
+.pook:hover {
+	opacity:0.5;
+}
+

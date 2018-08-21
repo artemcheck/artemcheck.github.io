@@ -1,0 +1,63 @@
+body {
+	background-color:black;
+	margin:0;
+	color:white;
+}
+.video {
+	position:absolute;
+	right:0;
+	bottom:0;
+	min-width:100%;
+	min-height:100%;
+	width:auto;
+	height:auto;
+	z-index:-100;
+}
+.mainword {
+    position: absolute;
+    width: 100%; 
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+}
+.my {
+	margin-top:220px;
+}
+.a1 {
+	margin-top:390px;
+	font-size:180px;
+	color:white;
+	text-shadow:10px 5px 15px black;
+	text-decoration:none;
+}
+.title1 {
+	position:relative;
+	margin-left:30px;
+	text-shadow:10px 5px 15px black;
+}
+.span3 {
+	font-size:11px;
+}
+footer {
+	position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.a2 {
+	text-decoration:none;
+	color:white;
+}
+a {
+	transition:opacity 0.5s ease;
+}
+a:hover {
+	opacity:0.5;
+}
+
+
+
+/* Добавить MEDIA QUERIES @media */

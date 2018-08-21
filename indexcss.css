@@ -2,7 +2,7 @@ body {
 	background:#fff1;
 }
 .wrap {
-	min-width:1000px;
+	min-width:400px;
 	max-width:1300px;
 	margin:0 auto 0 auto;
 	background:#ece9f8;
@@ -13,7 +13,7 @@ body {
 	background:#E6E5E5;
 }
 .content {
-	background:#ece9f8;
+	background:#ece9f8; 			
 	height:1200px;
 	
 }
@@ -64,10 +64,11 @@ img.myphoto {
 	margin:550px 30.5%;
 	border-radius:30px;
 	float:left;
-	transition: opacity 0.5s ease;
+	transition:opacity 0.5s ease;
+	background:black;
 }
 img.myphoto:hover {
-	opacity: 0.5;
+	opacity:0.8;
 }
 .between {
 	font-family:"courier new";
@@ -121,6 +122,10 @@ h5 {
 	text-align:center;
 	float:right;
 	font-weight:normal;
+	transition:opacity 0.5s ease;
+}
+h5:hover {
+	opacity:0.4;
 }
 .span1 {
 	font-size:13px;
@@ -197,8 +202,4 @@ progress {
 	position:absolute;
 	margin:250px 43% 0px;
 }
-.cat {
-	width:100px;
-	margin:100px 850px;
-	position:absolute;
-}
+
