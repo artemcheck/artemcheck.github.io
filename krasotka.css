@@ -62,13 +62,13 @@ a {
 	border-radius:10px;
 }
 @keyframes photochange {
-	0% { background-image:url("krasotka.JPG"); background-size:100% 100%; }
-	5% { background-image:url("krasotka.JPG"); background-size:100% 100%; }
-	25% { background-image:url("krasotka2.JPG"); background-size:100% 100%; }
-	50% { background-image:url("krasotka3.JPG");  background-size:100% 100%;}
-	75% { background-image:url("krasotka4.JPG");  background-size:100% 100%;}
-	99% { background-image:url("krasotka5.JPG"); background-size:100% 100%;}
-	100% { background-image:url("krasotka.JPG"); background-size:100% 100%; }
+	0% { background-image:url("krasotka.jpg"); background-size:100% 100%; }
+	5% { background-image:url("krasotka.jpg"); background-size:100% 100%; }
+	25% { background-image:url("krasotka2.jpg"); background-size:100% 100%; }
+	50% { background-image:url("krasotka3.jpg");  background-size:100% 100%;}
+	75% { background-image:url("krasotka4.jpg");  background-size:100% 100%;}
+	99% { background-image:url("krasotka5.jpg"); background-size:100% 100%;}
+	100% { background-image:url("krasotka.jpg"); background-size:100% 100%; }
 }
 .finish {
 	margin-left:3%;
