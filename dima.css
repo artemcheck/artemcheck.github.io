@@ -62,13 +62,13 @@ a {
 	border-radius:10px;
 }
 @keyframes photochange {
-	0% { background-image:url("dima.jpg"); background-size:100% 100%; }
-	5% { background-image:url("dima.jpg"); background-size:100% 100%; }
-	25% { background-image:url("dima2.jpg"); background-size:100% 100%; }
-	50% { background-image:url("dima3.jpg");  background-size:100% 100%;}
-	75% { background-image:url("dima4.jpg");  background-size:100% 100%;}
-	99% { background-image:url("dima5.jpg"); background-size:100% 100%;}
-	100% { background-image:url("dima.jpg"); background-size:100% 100%; }
+	0% { background-image:url("daniel.jpg"); background-size:100% 100%; }
+	5% { background-image:url("daniel.jpg"); background-size:100% 100%; }
+	25% { background-image:url("daniel2.jpg"); background-size:100% 100%; }
+	50% { background-image:url("daniel3.jpg");  background-size:100% 100%;}
+	75% { background-image:url("daniel4.jpg");  background-size:100% 100%;}
+	99% { background-image:url("daniel2.jpg"); background-size:100% 100%;}
+	100% { background-image:url("daniel3.jpg"); background-size:100% 100%; }
 }
 .finish {
 	margin-left:3%;
