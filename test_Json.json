@@ -1,0 +1,29 @@
+{
+"languages": 
+  [
+    {
+      "locale": "ruRU",
+      "text": "russian"
+    },
+    {
+      "locale": "enGB",
+      "text": "english"
+    },
+    {
+      "locale": "zhCN",
+      "text": "chinese"
+    },
+    {
+      "locale": "frFR",
+      "text": "france"
+    },
+    {
+      "locale": "deDE",
+      "text": "deutch"
+    },
+{
+      "locale": "esES",
+      "text": "espaniol"
+    }
+  ] 
+}
